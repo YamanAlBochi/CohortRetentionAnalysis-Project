@@ -1,6 +1,10 @@
 # CohortRetentionAnalysis-Project
 Retention Rate is defined as the number of customers who continue to use a product/services, its measured as the number of returning users, at a regular interval such as every week or month, grouped by their week of signup, in this project I'll be exploring an online retail dataset and create a retention cohort analysis in SQL (Server) and Tableau.
 
+What is a Cohort? 
+
+Is a customer segment, defined by time, size and behaviour. 
+
 
 
 In this Project, we explore an online retail dataset and create a retention cohort analysis in SQL and Tableau. :
