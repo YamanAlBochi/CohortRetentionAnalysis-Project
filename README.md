@@ -23,4 +23,8 @@ now, what a company could do with this information is where the true magic happe
 
 in our example, tracking across the chart gives us insight into when the users are churning and in wat proportion, as we can see our chart, is describing a huge drop between day 0 and day indicating a large amounts of churn and as we run run down the chart we also see this dop-off is consistent across all users cohorts implying something big is causing users to churn within the first 24 hours of using any specific product, knowing this information means this company now has a starting point to daignose the potential problem allowing to be more precise in how to allocate resources to improve the problemm now while getting into the weeds of companies can further leverage this analytics technique.
 
+
+Loading python
+
+
 The important takeaway, is that this technique is the foundation for data-driven product, marketing and customer success improvement efforts. Cohort Analysis isn't simply the domain of software as a service or digital companies either; a gym for example will have an attrition rate for both active use and churned membership, thus tere are numerous use cases for a gym to apply cohort analysis to and it should be an integral part of the marketing and product development processes, in summary; cohort analysis takes the guesswork out of where a company should be focusing its efforts to improve and all companies can benefit from cohort analysis when applied to their specific needs, they are the simple yet powerful tool that puts real data into the hands of the company so they can improve efficiently.
