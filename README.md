@@ -10,3 +10,17 @@ A type of Statistical Analysis in which groups or 'Cohorts' of users are tracked
 The data a user signing up online or creating an account, would be a good exapmle of this, a company will run the experiment based on the groups that they've defined and then they'll work out when they churn over time, finally once the company collected the data that they need, they'll display it in a format similar to this chart we have below.
 
 
+
+
+at the frst glance, this may look complicated but in essence this is what a cohort analysis really is..
+
+
+First, the rows display the customer cohorts from each time interval, what this describes is pretty simple any user that signs up to the app on January 25 fits into the first cohort.. any user that signs up on january 6 fits into the next cohort and so on and so forth... and in each olumn represents the amount of time that has elapsed since the user subscribed. so what this chart is describing as we move across it is the number of days since the user has subscribedthis means that day zero for the january 25 cohort is january 25 and day one is january 26th, if you take the January 26th cohort, day zero is January 26 and day one is January 27 and ect...
+
+Ever cell has an percentage, and what is this percentage means will be context dependent to the experiment and the hypothesis being tested, in our example; the percentage represents the number of active users still using the product within the cohort.. 
+
+now, what a company could do with this information is where the true magic happens....
+
+in our example, tracking across the chart gives us insight into when the users are churning and in wat proportion, as we can see our chart, is describing a huge drop between day 0 and day indicating a large amounts of churn and as we run run down the chart we also see this dop-off is consistent across all users cohorts implying something big is causing users to churn within the first 24 hours of using any specific product, knowing this information means this company now has a starting point to daignose the potential problem allowing to be more precise in how to allocate resources to improve the problemm now while getting into the weeds of companies can further leverage this analytics technique.
+
+The important takeaway, is that this technique is the foundation for data-driven product, marketing and customer success improvement efforts. Cohort Analysis isn't simply the domain of software as a service or digital companies either; a gym for example will have an attrition rate for both active use and churned membership, thus tere are numerous use cases for a gym to apply cohort analysis to and it should be an integral part of the marketing and product development processes, in summary; cohort analysis takes the guesswork out of where a company should be focusing its efforts to improve and all companies can benefit from cohort analysis when applied to their specific needs, they are the simple yet powerful tool that puts real data into the hands of the company so they can improve efficiently.
