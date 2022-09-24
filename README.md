@@ -24,4 +24,4 @@ In our example, tracking across the chart gives us insight into when the users a
 The important takeaway, this technique is the foundation for data-driven product, marketing and customer success improvement efforts. Cohort Analysis isn't simply the domain of software as a service or digital companies either; a gym for example will have an attrition rate for both active use and churned membership, thus tere are numerous use cases for a gym to apply cohort analysis to and it should be an integral part of the marketing and product development processes, in summary; cohort analysis takes the guesswork out of where a company should be focusing its efforts to improve and all companies can benefit from cohort analysis when applied to their specific needs, they are the simple yet powerful tool that puts real data into the hands of the company so they can improve efficiently.
 
 
-- Written by Yaman Al Boch
+- Written by Yaman Al Bochi
