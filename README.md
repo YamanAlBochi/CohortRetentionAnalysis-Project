@@ -12,7 +12,7 @@ The data a user signing up online or creating an account, would be a good exapml
 
 First, the rows display the customer cohorts from each time interval, what this describes is pretty simple any user that signs up to the app on January 1st fits into the first cohort, also any user that signs up on january 6 fits into the next cohort and so on and so forth.
 
-In each column represents the amount of time that has elapsed since the user subscribed. so what this chart is describing as we move across it is the number of days since the user has subscribed, this means that day zero for the january 1 cohort is january 1 and day one is january the 2nd, if you take the January 2nd cohort, day zero is January 2nd and day one is January 3rd and ect...
+In each column represents the amount of time that has elapsed since the user subscribed. so what this chart is describing as we move across it is the number of days since the user has subscribed, this means that day zero for the january 1 cohort is january 1 and day one is january the 2nd, if you take the January 2nd cohort, day zero is January 2nd and day one is January 3rd and ect..
 
 Ever cell has an percentage, and what is this percentage means will be context dependent to the experiment and the hypothesis being tested, in our example; the percentage represents the number of active users still using the product within the cohort.. 
 
