@@ -1,6 +1,6 @@
 # CohortRetentionAnalysis-Project
 
-- Retention Churn Rate is defined as the number of customers who continue to use a product/services, its measured as the number of returning users, at a regular interval such as every week or month, grouped by their week of signup, in this project I'll be exploring an online retail dataset and create a retention cohort analysis in Python.......
+- Retention Churn Rate is defined as the number of customers who continue to use a product/services, its measured as the number of returning users, at a regular interval such as every week or month, grouped by their week of signup, in this project I'll be exploring an online retail dataset and create a retention cohort analysis in Python......
 
 - What is Cohort Analysis?
 
